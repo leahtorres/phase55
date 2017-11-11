@@ -52,50 +52,50 @@ h1 {
   width: 100vw;
 }
 .comic1 {
-	background-color: #B3DACF;
+	background-image: url(comic1.jpg);
 	width: 25vw;
   height: 50vh;
   display: flex;
 	
 }
 .comic2 {
-background-color: #758B9C;
+background-image: url(comic2.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
 }
 .comic3 {
-	background-color: #0E216F;
+	background-image: url(comic3.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
 }
 .comic4 {
-	background-color: #CA70AB;
+	background-image: url(comic4.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
 }
 .comic5 {
-	background-color: #CA7074;
+	background-image: url(comic5.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
 }
 .comic6 {
-	background-color: #7D282C;
+	background-image: url(comic6.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
 }
 .comic7 {
-	background-color: #3ACD62;
+	background-image: url(comic7.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
 }
 .comic8 {
-	background-color: #218E85;
+background-image: url(comic8.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
