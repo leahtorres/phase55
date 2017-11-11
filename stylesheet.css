@@ -52,7 +52,7 @@ h1 {
   width: 100vw;
 }
 .comic1 {
-	background-image: url(comic1.jpg);
+	background-image: url(comic1.png);
 	width: 25vw;
   height: 50vh;
   display: flex;
@@ -71,7 +71,7 @@ background-image: url(comic2.jpg);
   display: flex;
 }
 .comic4 {
-	background-image: url(comic4.jpg);
+	background-image: url(comic4.JPG);
 	width: 25vw;
     height: 50vh;
   display: flex;
