@@ -45,6 +45,18 @@ h1 {
   font-style: italic;
    font-size: 28px;
 }
+h2 {
+ text-decoration: underline;
+font-weight: bold;
+text-align: center;
+text-transform: capitalize;
+ text-shadow: 3px 5px red;
+	
+}
+p {
+text-align: center;
+font-style: italic;
+}
 .flex-container {
 	display: flex;
 	flex-wrap: wrap;
