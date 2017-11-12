@@ -141,12 +141,13 @@ background-image: url(comic8.jpg);
     width: 50vw;
   }
 .button {
-	width: 20vw;
+	width: 22vw;
 
 }
 }
 @media screen and (max-width: 500px) {
-	body {
-	background-color: #0D3189;
-	}
+body {
+background-color: #0D3189;
+	
+}
 }
