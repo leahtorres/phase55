@@ -35,11 +35,11 @@ background-size: 100% 100%;
   width: 50vw;
 }
 .button {
-	background-color: #FF33E3;
+	background-color: #330A0A;
 	height: 19vh;
 	width: 10vw;
 	margin: auto;
-  border: 3px solid green;
+  border: 3px solid #330A0A;
 	text-align: center;
 }
 h2 {
