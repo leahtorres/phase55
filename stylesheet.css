@@ -71,6 +71,8 @@ font-size: 30px;
 	width: 25vw;
   height: 50vh;
   display: flex;
+	background-repeat: no-repeat;
+background-size: 100% 100%;
 	
 }
 .comic2 {
@@ -78,42 +80,56 @@ background-image: url(comic2.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
+	background-repeat: no-repeat;
+background-size: 100% 100%;
 }
 .comic3 {
 	background-image: url(comic3.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
+	background-repeat: no-repeat;
+background-size: 100% 100%;
 }
 .comic4 {
 	background-image: url(comic4.JPG);
 	width: 25vw;
     height: 50vh;
   display: flex;
+	background-repeat: no-repeat;
+background-size: 100% 100%;
 }
 .comic5 {
 	background-image: url(comic5.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
+	background-repeat: no-repeat;
+background-size: 100% 100%;
 }
 .comic6 {
 	background-image: url(comic6.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
+	background-repeat: no-repeat;
+background-size: 100% 100%;
 }
 .comic7 {
 	background-image: url(comic7.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
+	background-repeat: no-repeat;
+background-size: 100% 100%;
 }
 .comic8 {
 background-image: url(comic8.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
+	background-repeat: no-repeat;
+background-size: 100% 100%;
 	
 }
 @media screen and (max-width: 700px) {
