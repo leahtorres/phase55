@@ -44,6 +44,7 @@ background-size: 100% 100%;
 }
 h2 {
   font-style: italic;
+font-weight: bold;
    font-size: 30px;
 font-color: #0D6EA9;
 }
