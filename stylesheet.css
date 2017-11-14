@@ -166,6 +166,7 @@ background-size: 100% 100%;
 @media screen and (max-width: 500px) {
 body {
 background-color: #0D3189;
+	}
 	.button {
 		background-color: #ff0000;
 	}
