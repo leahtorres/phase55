@@ -68,7 +68,7 @@ font-size: 30px;
   width: 100vw;
 }
 .comic1 {
-	background-image: url(comic4.jpg);
+background-image: url(comic88.png);
 	width: 25vw;
   height: 50vh;
   display: flex;
@@ -125,7 +125,7 @@ background-size: 100% 100%;
 background-size: 100% 100%;
 }
 .comic8 {
-background-image: url(comic88.png);
+background-image: url(comic4.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
