@@ -68,7 +68,7 @@ font-size: 30px;
   width: 100vw;
 }
 .comic1 {
-	background-image: url(comic1.png);
+	background-image: url(comic4.jpg);
 	width: 25vw;
   height: 50vh;
   display: flex;
@@ -85,7 +85,7 @@ background-image: url(comic2.jpg);
 background-size: 100% 100%;
 }
 .comic3 {
-	background-image: url(comic3.jpg);
+	background-image: url(comic7.png);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -93,7 +93,7 @@ background-size: 100% 100%;
 background-size: 100% 100%;
 }
 .comic4 {
-	background-image: url(comic4.JPG);
+	background-image: url(comic6.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -109,7 +109,7 @@ background-size: 100% 100%;
 background-size: 100% 100%;
 }
 .comic6 {
-	background-image: url(comic6.jpg);
+	background-image: url(comic8.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -117,7 +117,7 @@ background-size: 100% 100%;
 background-size: 100% 100%;
 }
 .comic7 {
-	background-image: url(comic7.jpg);
+	background-image: url(comic3.png);
 	width: 25vw;
     height: 50vh;
   display: flex;
@@ -125,7 +125,7 @@ background-size: 100% 100%;
 background-size: 100% 100%;
 }
 .comic8 {
-background-image: url(comic8.jpg);
+background-image: url(comic1.jpg);
 	width: 25vw;
     height: 50vh;
   display: flex;
